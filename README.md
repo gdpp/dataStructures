@@ -1,6 +1,6 @@
-# Data Structures
+# Data Structures With Python
 
-### 1. Recursión.
+### 1. Recursion.
 
 ### 2. Linked List.
 
