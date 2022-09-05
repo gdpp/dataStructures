@@ -16,17 +16,15 @@
 
 ### 8. Stack (Pila).
 
-### 9. Balancing of Symbols.
+### 9. Queue, (Cola).
 
-### 10. Queue, (Cola).
+### 10. Tree.
 
-### 11. Tree.
+### 11. Generic Tree.
 
-### 12. Generic Tree.
+### 12. Binary Tree.
 
-### 13. Binary Tree.
-
-### 14. Binary Search Tree.
+### 13. Binary Search Tree.
 
 ### 14. Evaluation of Expressions.
 
